@@ -7,9 +7,12 @@ streamlit-extras
 streamlit
 requests
 PyPDF2
+PyMuPDF  # Replacing 'fitz' with its official package name
 firebase-admin
 llama-index
 chromadb
 InstructorEmbedding
 streamlit-extras
-fitz
+pytesseract
+Pillow
+openai
