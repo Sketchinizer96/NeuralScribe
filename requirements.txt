@@ -12,3 +12,4 @@ llama-index
 chromadb
 InstructorEmbedding
 streamlit-extras
+fitz
