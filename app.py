@@ -115,7 +115,7 @@ st.markdown("""
     </script>
 """, unsafe_allow_html=True)
 
-st.sidebar.image("C:\\Users\\darsh\\OneDrive\\Desktop\\Project\\assets\\logo.png", width=150)
+st.sidebar.image("logo.png", width=150)
 st.sidebar.button("Logout", on_click=logout)
 
 st.title("📝 Neural Scribe - AI-Powered Document Processing")
